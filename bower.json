@@ -19,7 +19,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.7.0",
     "button-action": "usc-isi-digelements/button-action#^1.0.2",    
-    "eventDrops": "usc-isi-digelements/EventDrops#DIG-master",
+    "eventDrops": "usc-isi-digelements/EventDrops#^DIG-master",
     "iron-elements": "PolymerElements/iron-elements#^1.0.10",
     "moment-element": "bendavis78/moment-element#^1.1.0",
     "paper-styles": "PolymerElements/paper-styles#^1.1.5",
